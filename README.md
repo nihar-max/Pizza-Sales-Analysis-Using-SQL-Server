@@ -13,7 +13,6 @@ SQL (Structured Query Language) is used to clean, filter, and transform the raw 
 
 ### 3. Data Analysis
 Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
-include:
 1. Analyzing sales trends over time.
 
 2.Most common pizza ordered
